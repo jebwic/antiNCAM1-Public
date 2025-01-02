@@ -1,6 +1,6 @@
 # Design of Protein Binder for Active Targeting of NCAM1
 
-*Note: the full manuscript is in a private repo*
+*Note: the full manuscript is in a private repo, reach out to matthewsalfity@gmail.com for more information*
 
 Neuroendocrine Prostate Cancer (NEPC) is a rare, aggressive form of prostate cancer with a 5 year survival
 rate of less than 20% (Rao et al., 2012). Therapeutics can be delivered via lipid nanoparticles (LNPs) functionalized with
